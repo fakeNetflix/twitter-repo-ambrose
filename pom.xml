@@ -70,7 +70,7 @@
     <cascading3.version>3.1.0-wip-52</cascading3.version>
     <fasterxml.jackson.version>2.4.4</fasterxml.jackson.version>
     <google.guava.version>18.0</google.guava.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mortbay.jetty.servlet.version>3.0.20100224</mortbay.jetty.servlet.version>
     <mortbay.jetty.version>6.1.26</mortbay.jetty.version>
     <reflections.version>0.9.9</reflections.version>
