@@ -68,7 +68,7 @@
     <apache.pig.version>0.14.0</apache.pig.version>
     <cascading.version>2.5.5</cascading.version>
     <cascading3.version>3.1.0-wip-52</cascading3.version>
-    <fasterxml.jackson.version>2.4.4</fasterxml.jackson.version>
+    <fasterxml.jackson.version>2.12.6.1</fasterxml.jackson.version>
     <google.guava.version>18.0</google.guava.version>
     <junit.version>4.12</junit.version>
     <mortbay.jetty.servlet.version>3.0.20100224</mortbay.jetty.servlet.version>
